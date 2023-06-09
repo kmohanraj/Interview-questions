@@ -1,6 +1,9 @@
 # Interview-questions
 
-1.What is Javascript?
+
+<details>
+  <summary><h2>JS Interview Questions</h2></summary>
+  1.What is Javascript?
 
 * Javascript is a programming language that is used for converting static web pages to interactive and dynamic web pages.
 
@@ -23,12 +26,6 @@
 ```
 
 3.Diff between primitive & non-primitive data types?
-
-  | First Header  | Second Header |
-  | ------------- | ------------- |
-  | Content Cell  | Content Cell  |
-  | Content Cell  | Content Cell  |
-
 
 | SI.No     | Primitive Data Types      | Non Primitive Data Types  
 | ------------- | ------------- | --------    |
@@ -109,3 +106,11 @@ II)Global Scope
     console.log(b)
     // => 2
 ```
+
+</details>
+
+<details>
+  <summary><h2>JS Coding</h2></summary>
+
+  Coding
+</details>
