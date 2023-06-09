@@ -35,6 +35,7 @@
 
 
 Primitive Data Types:
+
 ```js
     Ex:
       let variable = "temp"
@@ -58,15 +59,15 @@ Non Primitive Data Types
 
 4.What are arrays, functions and objects?
 
-Arrays:
+`Arrays:`
 
 * An array in is used to store a collection of values, such as a list of numbers or names.
 
-Functions:
+`Functions:`
 
 * Function is a block of code that performs a specific task or returns a value.
 
-Objects:
+`Objects:`
 
 * Object is a non primitive data type which can hold multiple values or a combination of values and functions.
 
